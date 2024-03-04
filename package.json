@@ -12,7 +12,6 @@
   "author": "Abfcodes",
   "license": "ISC",
   "dependencies": {
-    "@ffprobe-installer/ffprobe": "^2.1.2",
     "aws-sdk": "^2.1194.0",
     "axios": "^1.4.0",
     "bcryptjs": "^2.4.3",
